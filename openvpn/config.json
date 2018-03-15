@@ -1,8 +1,8 @@
 {
     "name": "OpenVPN",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "slug": "openvpn",
-    "description": "OpenVPN Bridging",
+    "description": "OpenVPN Client",
     "url": "https://github.com/the-louie/hassio-custom-addons",
     "startup": "application",
     "boot": "auto",
